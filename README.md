@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Piyush @Piyushkumar030
 
 - 👀 I’m interested in **Machine Learning**, **AI**, **Web Development**, **Deep Learning**, and **Natural Language Processing (NLP)**.
-- 🌱 I’m currently learning **GATE Computer Science**, **Deep Learning**, and **Cloud Computing**.
+- 🌱 I’m currently learning **Deep Learning**, **Cloud Computing** etc.
 - 💞️ I’m looking to collaborate on **AI-based projects**, **Web development**, and **Machine Learning models**.
 - 📫 How to reach me: You can contact me via email at **piyushkumar030@gmail.com** or connect with me on **LinkedIn** (https://www.linkedin.com/in/piyushkumar030/).
 - 😄 Pronouns: **He/Him**
