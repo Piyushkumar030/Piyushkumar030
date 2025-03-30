@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Piyush @Piyushkumar030
 
-- 👀 I’m interested in **Machine Learning**, **AI**, **Web Development**, **SQL**, and **Natural Language Processing (NLP)**.
+- 👀 I am interested in **Machine Learning**, **AI**, **Web Development**, **SQL**, and **Natural Language Processing (NLP)**.
 - 🌱 I’m currently learning **Deep Learning**, **Cloud Computing** etc. 
 - 💞️ I’m looking to collaborate on **AI-based projects**, **Web development**, and **Machine Learning Projects**.
 - 📫 How to reach me: You can contact me via email at **piyushkumar030@gmail.com** and also connect with me on **LinkedIn** (https://www.linkedin.com/in/piyush-kumar-dey-291b19342/).
