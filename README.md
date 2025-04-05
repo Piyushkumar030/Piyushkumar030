@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Piyush @Piyushkumar030 
+# 👋 Hi, I’m Piyush Kumar Dey @Piyushkumar030 
 
 - 👀 I am interested in **Machine Learning**, **AI**, **Web Development**, **SQL**, and **Natural Language Processing (NLP)**.
 - 🌱 I’m currently learning **Deep Learning**, **Cloud Computing** etc.  
