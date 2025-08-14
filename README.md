@@ -1,4 +1,3 @@
-
 <h1 align="center">
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Piyush Kumar Dey
 </h1>
@@ -8,10 +7,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently pursuing B.Tech in Computer Science  
-- 🌐 Passionate about **Cloud (Azure)**, **AI/ML**, and **Web Development**  
-- 💡 Built several AI/Ml,python and web dev projects. 
-- 💬 Always open to tech chats, collaborations, and teamwork  
+- 🎓 Currently pursuing B.Tech in Computer Science
+- 🌐 Passionate about **Cloud (Azure)**, **AI/ML**, and **Web Development**
+- 💡 Built several AI/Ml,python and web dev projects.
+- 💬 Always open to tech chats, collaborations, and teamwork
 - ✨ Loves volleyball, football & solving real-world coding problems
 
 ---
@@ -35,34 +34,43 @@
 ### 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,c,c++,html,css,js,nodejs,kotlin,azure,mongodb,mysql,php,git,github,vscode,jupyter,linux," />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,javascript,bootstrap,tailwind,nodejs,react,kotlin,mongodb,mysql,php,azure,git,bash,vscode,linux" />
 </div>
-
-
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushkumar030&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=piyushkumar030&show_icons=true&theme=radical" height="186"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar030&theme=radical" height="180"/>
 </div>
 
 ---
 
+
 ### 🏆 GitHub Contributions
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=piyushkumar030&theme=dracula)
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyushkumar030&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyushkumar030&theme=radical" />
 </div>
 
+
 ---
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar030&theme=light)
 
 ### 🐍 Contribution Snake
 
-![Ocean Snake](https://raw.githubusercontent.com/piyushkumar030/piyushkumar030/output/ocean.gif)
+> _(Optional, animated)_
+
+![snake gif](https://raw.githubusercontent.com/piyushkumar030/piyushkumar030/output/github-contribution-grid-snake.svg)
+
 ---
 
 <h3 align="center">Thanks for visiting my profile 🙌</h3>
+
+
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
