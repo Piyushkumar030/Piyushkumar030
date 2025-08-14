@@ -62,8 +62,7 @@
 
 ### 🐍 Contribution Snake
 
-![Standard Snake](https://raw.githubusercontent.com/piyushkumar030/piyushkumar030/output/github-snake.svg)
-
+![Ocean Snake](https://raw.githubusercontent.com/piyushkumar030/piyushkumar030/output/ocean.gif)
 ---
 
 <h3 align="center">Thanks for visiting my profile 🙌</h3>
