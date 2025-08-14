@@ -62,9 +62,7 @@
 
 ### 🐍 Contribution Snake
 
-> *(Optional, animated)*
-
-![snake gif](https://github.com/piyushkumar030/piyushkumar030/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/piyushkumar030/piyushkumar030/output/github-contribution-grid-snake2.svg)
 
 ---
 
