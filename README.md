@@ -38,17 +38,7 @@
   <img src="https://skillicons.dev/icons?i=py,java,html,css,js,azure,mysql,git,github,vscode" />
 </div>
 
----
 
-### 🔥 Featured Project
-
-#### 🛡️ **Secure Web App Hosting using Azure**
-> A full Azure network project using **Hub-and-Spoke Topology**, **VNet Peering**, **NSGs**, and **Simulated Firewall VMs** to host a web application securely under Microsoft Learn Sandbox limits.
-
-📁 [Read Full Report Here](https://github.com/piyushkumar030/Secure-Hosting-Project)
-
-🖼️ Screenshot:  
-![Azure Project Setup](https://github.com/piyushkumar030/Secure-Hosting-Project/blob/main/screenshots/architecture.png)
 
 ---
 
