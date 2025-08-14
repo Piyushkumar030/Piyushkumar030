@@ -10,7 +10,7 @@
 
 - 🎓 Currently pursuing B.Tech in Computer Science  
 - 🌐 Passionate about **Cloud (Azure)**, **AI/ML**, and **Web Development**  
-- 💡 Built a secure **Azure Web App Hosting** project using Hub-and-Spoke Topology  
+- 💡 Built several AI/Ml,python and web dev projects. 
 - 💬 Always open to tech chats, collaborations, and teamwork  
 - ✨ Loves volleyball, football & solving real-world coding problems
 
