@@ -62,10 +62,7 @@
 
 ### 🐍 Contribution Snake
 
-<div align="center">
-  <img  src="https://github.com/{your username}/contribution-cal-snake/blob/master/animation/snake.gif"
-       alt="snake" />
-</div>
+![Standard Snake](https://raw.githubusercontent.com/piyushkumar030/piyushkumar030/output/github-snake.svg)
 
 ---
 
